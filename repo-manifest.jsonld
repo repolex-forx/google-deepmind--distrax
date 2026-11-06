@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/distrax/commit/33cb7b5a2bb51a8fa932699327631c0f506171f1",
       "git:hexsha": "33cb7b5a2bb51a8fa932699327631c0f506171f1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/google-deepmind/distrax/commit/821c46548f6ca49d9e522db64f11d111cca1a080",
